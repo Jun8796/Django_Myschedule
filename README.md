@@ -1,0 +1,2 @@
+# Django_Myschedule
+Djangoで自分のタスクを管理するためのツールを作成。
